@@ -1,0 +1,15 @@
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularGPAFinal\bin\Debug\net8.0\CalcularGPAFinal.exe
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularGPAFinal\bin\Debug\net8.0\CalcularGPAFinal.deps.json
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularGPAFinal\bin\Debug\net8.0\CalcularGPAFinal.runtimeconfig.json
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularGPAFinal\bin\Debug\net8.0\CalcularGPAFinal.dll
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularGPAFinal\bin\Debug\net8.0\CalcularGPAFinal.pdb
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularGPAFinal\obj\Debug\net8.0\CalcularGPAFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularGPAFinal\obj\Debug\net8.0\CalcularGPAFinal.AssemblyInfoInputs.cache
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularGPAFinal\obj\Debug\net8.0\CalcularGPAFinal.AssemblyInfo.cs
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularGPAFinal\obj\Debug\net8.0\CalcularGPAFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularGPAFinal\obj\Debug\net8.0\CalcularGPAFinal.sourcelink.json
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularGPAFinal\obj\Debug\net8.0\CalcularGPAFinal.dll
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularGPAFinal\obj\Debug\net8.0\refint\CalcularGPAFinal.dll
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularGPAFinal\obj\Debug\net8.0\CalcularGPAFinal.pdb
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularGPAFinal\obj\Debug\net8.0\CalcularGPAFinal.genruntimeconfig.cache
+C:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalcularGPAFinal\obj\Debug\net8.0\ref\CalcularGPAFinal.dll
